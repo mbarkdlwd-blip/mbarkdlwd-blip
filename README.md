@@ -1,66 +1,46 @@
-<h1 align="center">Hi, I'm Mubarak Dawood Abdalla Bakheet 👋</h1>
+<h1 align="center">Mubarak Dawood Abdalla Bakheet</h1>
 
 <h3 align="center">
-  Data Science Student | AI Enthusiast | Software Developer
-</h3>
-
-<h3 align="center">
-  Entrepreneurship & Project Management Coach
+  Data Science · Software Engineering · Entrepreneurship
 </h3>
 
 <p align="center">
-  📍 Kigali, Rwanda | 🎓 Kigali Independent University (ULK)
+  Kigali Independent University (ULK) · Kigali, Rwanda
 </p>
 
 <p align="center">
-  <a href="https://github.com/mbarkdlwd-blip">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mubarak-dawood-bakheet-74a3363b4">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mbarkdlwd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://github.com/mbarkdlwd-blip">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/mubarak-dawood-bakheet-74a3363b4">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:mbarkdlwd@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## ⟁ Professional Profile
 
-I'm a Data Science student at **Kigali Independent University (ULK)** in Rwanda, passionate about Artificial Intelligence, software development, entrepreneurship, and building technology-driven solutions.
+I am a Data Science student at Kigali Independent University (ULK), Rwanda, with interests in software engineering, artificial intelligence, data-driven solutions, and digital transformation.
 
-My work combines technology, business development, capacity building, and humanitarian coordination. I enjoy transforming ideas into practical solutions that create value for businesses and communities.
+My professional work combines technology, entrepreneurship, project management, and humanitarian coordination. I focus on developing practical solutions, supporting entrepreneurial initiatives, and contributing to projects that address real-world challenges.
 
-- 🎓 Studying Data Science at Kigali Independent University (ULK).
-- 🤖 Exploring Artificial Intelligence and Machine Learning.
-- 💻 Building software applications and digital solutions.
-- 🎯 Entrepreneurship & Project Management Coach.
-- 🚀 Founder of Nyaltna Capacity Building Center.
-- 🤝 Co-founder of NUSelle.
-- 🌍 Program Coordinator for South Darfur Emergency Response Rooms.
-- 📚 Committed to continuous learning and professional development.
+My experience spans software development, capacity building, business development, and community-led humanitarian initiatives.
 
----
-
-## 🎓 Education
+## ⌑ Education
 
 **Kigali Independent University (ULK)**  
 Bachelor's Degree in Data Science — In Progress  
-📍 Kigali, Rwanda
+Kigali, Rwanda
 
 ### Academic Interests
 
-- Artificial Intelligence
-- Machine Learning
-- Data Analytics
-- Database Systems
-- Data Engineering
-- Software Development
+- Data Science and Analytics
+- Artificial Intelligence and Machine Learning
+- Database Systems and Data Engineering
+- Statistical Analysis and Data-Driven Decision Making
+- Software Engineering
 
----
-
-## 🛠️ Technical Skills
+## ⌬ Technical Skills
 
 ### Programming Languages
 
@@ -73,13 +53,22 @@ Bachelor's Degree in Data Science — In Progress
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat)
+
+- API design and development
+- Object-Oriented Programming
+- Entity Framework Core
+- Application architecture
 
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat)
+
+- Relational database design
+- Data modeling
+- Database management
+- Data integrity
 
 ### Frontend Development
 
@@ -88,132 +77,151 @@ Bachelor's Degree in Data Science — In Progress
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-### Tools & Technologies
+### Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-**Additional Skills:** Object-Oriented Programming, Database Design, API Development, AI Integration, Software Testing, and Data Management.
+### Additional Areas
 
----
+- Artificial Intelligence Integration
+- Software Testing
+- Data Management
+- Application Security Fundamentals
+- Version Control and Collaborative Development
 
-## 🚀 Featured Projects
+## ◈ Featured Projects
 
 ### 1. Nyalatna AI Registration & Admissions Platform
 
-An AI-powered registration and admissions platform designed to improve the operations of a training and capacity-building center.
+An AI-powered registration and admissions platform designed to improve the operational management of a training and capacity-building center.
 
-#### Key Features
+The system combines registration workflows, course management, financial operations, reporting, and AI-assisted communication.
 
-- Applicant registration and course management.
-- Enrollment and batch capacity management.
+**Core Capabilities**
+
+- Applicant registration and admissions management.
+- Course, batch, and enrollment capacity management.
 - Payment installments and financial tracking.
 - Financial reporting and Arabic PDF generation.
 - AI-powered registration assistance.
 - Role-based access control and audit logging.
+- Registration workflow validation and operational safeguards.
 - Integration architecture for messaging platforms.
 
-#### Technology Stack
+**Technology Stack**
 
-C#, .NET, ASP.NET Core, Entity Framework Core, PostgreSQL, React, TypeScript, OpenAI integration, Docker, and GitHub Actions.
+C#, .NET 10, ASP.NET Core Minimal APIs, Entity Framework Core, PostgreSQL, React, TypeScript, OpenAI integration, Docker, and GitHub Actions.
 
 **Repository:** Private — source code available upon request.
 
----
-
 ### 2. Data Structures & Algorithms — C++
 
-A university coursework project focused on C++ programming, problem-solving, and practical applications of programming concepts.
+A university coursework project focused on C++ programming, object-oriented programming, file handling, and practical problem-solving.
 
-**Topics Covered**
+**Learning Areas**
 
-- Object-Oriented Programming.
-- File handling.
-- Data management.
-- Programming exercises and problem-solving.
+- Object-Oriented Programming
+- File Handling
+- Data Management
+- Programming Logic
+- Algorithmic Problem-Solving
 
-🔗 **Repository:**  
-https://github.com/mbarkdlwd-blip/202510537_DSA_MubarakDawoodAbdalla
+**Repository:** [View Project on GitHub](https://github.com/mbarkdlwd-blip/202510537_DSA_MubarakDawoodAbdalla)
 
----
-
-## 🎯 Entrepreneurship & Project Management Coaching
+## ⟡ Entrepreneurship & Project Management
 
 **Entrepreneurship & Project Management Coach**
 
-I support aspiring entrepreneurs and project teams in developing business ideas, planning projects, and strengthening their entrepreneurial and management capabilities.
+I work in entrepreneurship coaching, project management, and capacity building, supporting entrepreneurs and project teams in developing business ideas and translating them into actionable initiatives.
 
 ### Areas of Focus
 
-- 💡 Entrepreneurship and business idea development.
-- 📊 Project planning and management.
-- 📝 Business model development.
-- 🎯 Goal setting and strategic planning.
-- 🚀 Startup development and entrepreneurial skills.
-- 📈 Business planning and organizational management.
-- 🤝 Capacity building and practical training.
+- Entrepreneurship and business idea development.
+- Business model development.
+- Project planning and management.
+- Strategic planning and goal setting.
+- Startup development and entrepreneurial skills.
+- Organizational management.
+- Capacity building and practical training.
 
-My approach emphasizes practical learning, structured planning, problem-solving, and turning ideas into actionable initiatives.
+My approach emphasizes practical learning, structured planning, problem-solving, and the development of sustainable initiatives.
 
----
-
-## 🌍 Leadership & Entrepreneurship
+## ⊞ Leadership & Entrepreneurship
 
 ### Nyaltna Capacity Building Center
+
 **Founder**
 
-Founder of a capacity-building center focused on entrepreneurship, professional development, and practical skills training.
+Founded Nyaltna Capacity Building Center to support entrepreneurship, professional development, and practical skills training.
 
-#### Training Areas
+**Training Areas**
 
-- Entrepreneurship and Project Management.
-- Computer and Operating Systems.
-- Marketing.
-- Neuro-Linguistic Programming (NLP).
-- Clothing Design.
+- Entrepreneurship and Project Management
+- Computer and Operating Systems
+- Marketing
+- Neuro-Linguistic Programming (NLP)
+- Clothing Design
 
-The center also provides facilities for workshops, conferences, and professional events.
+**Additional Services**
+
+- Training hall rental for workshops and conferences.
+- Professional training facilities.
+- Capacity-building activities and entrepreneurship support.
+
+The center has graduated 16 training cohorts and continues to support skills development and professional learning.
 
 ### NUSelle
+
 **Co-founder**
 
-A modest-fashion brand specializing in abayas, hijabs, fabrics, and customized fashion products, serving customers in Rwanda and beyond.
+NUSelle is a modest-fashion brand specializing in abayas, hijabs, fabrics, and customized fashion products.
+
+The brand serves customers in Rwanda and focuses on modest fashion, product presentation, and customer-oriented services.
+
+## ⫶ Humanitarian Leadership & Community Impact
 
 ### South Darfur Emergency Response Rooms
+
 **Program Coordinator**
 
-Contributing to humanitarian coordination and community-led emergency response initiatives in South Darfur, Sudan.
+Contributing to coordination and implementation of community-led humanitarian response initiatives in South Darfur, Sudan.
 
-Areas of engagement include humanitarian coordination, community support, emergency response, and collaboration with local response teams.
+Areas of engagement include:
 
----
+- Humanitarian coordination and response planning.
+- Coordination among emergency response teams.
+- Community support initiatives.
+- Water, sanitation, and hygiene activities.
+- Support for local emergency response efforts.
 
-## 🎯 Current Interests
+My humanitarian work reflects a commitment to community resilience, local leadership, and practical responses to challenges affecting vulnerable communities.
 
-- Artificial Intelligence and Machine Learning.
-- Data Science and Data Analytics.
-- AI-powered applications.
-- Backend and Full-Stack Development.
-- Database Systems and Data Engineering.
-- Entrepreneurship and Startup Development.
-- Project Management and Capacity Building.
-- Technology for Social Impact.
+## ⎔ Current Interests
 
----
+- Data Science and Analytics
+- Artificial Intelligence and Machine Learning
+- AI-Powered Applications
+- Software Engineering
+- Database Systems and Data Engineering
+- Entrepreneurship and Startup Development
+- Project Management
+- Technology for Social Impact
 
-## 📫 Let's Connect
+## ↗ Professional Contact
 
-I'm open to meaningful collaborations, technology projects, entrepreneurship initiatives, and opportunities to learn and grow.
+**Email:** [mbarkdlwd@gmail.com](mailto:mbarkdlwd@gmail.com)
 
-- **Email:** mbarkdlwd@gmail.com
-- **GitHub:** https://github.com/mbarkdlwd-blip
-- **LinkedIn:** https://www.linkedin.com/in/mubarak-dawood-bakheet-74a3363b4
-- **Location:** Kigali, Rwanda
+**GitHub:** [mbarkdlwd-blip](https://github.com/mbarkdlwd-blip)
+
+**LinkedIn:** [Mubarak Dawood Bakheet](https://www.linkedin.com/in/mubarak-dawood-bakheet-74a3363b4)
+
+**Location:** Kigali, Rwanda
 
 ---
 
 <p align="center">
-  <i>Learning continuously. Building practically. Empowering entrepreneurs. Creating impact through technology.</i>
+  Building practical solutions through technology, entrepreneurship, and community impact.
 </p>
