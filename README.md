@@ -1,71 +1,219 @@
-# Portfolio Projects
+<h1 align="center">Hi, I'm Mubarak Dawood Abdalla Bakheet 👋</h1>
 
-Only projects whose source code is in the GitHub account were assessed. **Two credible portfolio projects exist today, not five.** The Flutter emergency-rooms app and the NUSelle website were listed in your brief but are not in the account; they can be added once their code is pushed.
+<h3 align="center">
+  Data Science Student | AI Enthusiast | Software Developer
+</h3>
 
-## Presentation order
+<h3 align="center">
+  Entrepreneurship & Project Management Coach
+</h3>
 
-### 1. Nyalatna AI Registration & Admissions Platform ⭐ flagship
+<p align="center">
+  📍 Kigali, Rwanda | 🎓 Kigali Independent University (ULK)
+</p>
 
-**Repository:** `mbarkdlwd-blip/nyalatna-ai-agent` (private)
+<p align="center">
+  <a href="https://github.com/mbarkdlwd-blip">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mubarak-dawood-bakheet-74a3363b4">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mbarkdlwd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-**One-line pitch:** An admissions, payments and finance system for a training center in Sudan, with an AI assistant that registers applicants over web chat, WhatsApp and Messenger in Arabic.
+---
 
-**Problem.** Course registration, fee collection and finance were manual, which made batch capacity and payment records hard to keep consistent, while most applicants ask questions over chat in Sudanese Arabic.
+## 👨‍💻 About Me
 
-**Stack (verified):** C#, .NET 10, ASP.NET Core Minimal APIs, EF Core 10, PostgreSQL, OpenAI .NET SDK, QuestPDF, React 19, TypeScript, Vite, xUnit, Vitest, Docker, GitHub Actions.
+I'm a Data Science student at **Kigali Independent University (ULK)** in Rwanda, passionate about Artificial Intelligence, software development, entrepreneurship, and building technology-driven solutions.
 
-**Implemented features**
-- Applicants, courses, batches with capacity, atomic registrations with status rules.
-- Payments with installments, verification by a second staff member (segregation of duties), reversal.
-- Funds, revenues, expenses and a PDF financial report in Arabic.
-- AI registration assistant with guardrails and cost controls.
-- WhatsApp, Messenger and Facebook-comment integration through a signed Meta webhook.
-- Role-based access (15 policies), audit log, soft delete, rate limiting, password reset.
+My work combines technology, business development, capacity building, and humanitarian coordination. I enjoy transforming ideas into practical solutions that create value for businesses and communities.
 
-**Evidence**
-- 101 backend integration test methods on real PostgreSQL; passing in GitHub Actions.
-- 42 frontend unit tests passing; typecheck and production build passing; 0 npm vulnerabilities.
-- Five design and operations documents (configuration, database, deployment, security, testing).
+- 🎓 Studying Data Science at Kigali Independent University (ULK).
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 💻 Building software applications and digital solutions.
+- 🎯 Entrepreneurship & Project Management Coach.
+- 🚀 Founder of Nyaltna Capacity Building Center.
+- 🤝 Co-founder of NUSelle.
+- 🌍 Program Coordinator for South Darfur Emergency Response Rooms.
+- 📚 Committed to continuous learning and professional development.
 
-**Key technical challenges**
-- Preventing over-booking and duplicate numbering under concurrent registrations.
-- Letting an LLM drive registration without letting it bypass business rules or confirm payments.
-- Enforcing financial segregation of duties in both the API and the UI.
-- Arabic/RTL interface and Arabic PDF generation.
+---
 
-**Status:** Active development, functional. Meta channels not yet verified with live credentials.
+## 🎓 Education
 
-**Presentation advice.** The repository is private. Recruiters cannot see it, so either:
-- make it public after confirming credential rotation and that no real applicant data is in the repo (none was found), or
-- keep it private and feature it on the profile README with screenshots and a short write-up, offering access on request.
+**Kigali Independent University (ULK)**  
+Bachelor's Degree in Data Science — In Progress  
+📍 Kigali, Rwanda
 
-**Portfolio suitability:** Excellent. It demonstrates backend engineering, database design, testing discipline, security thinking and applied AI, all in one real-world project.
+### Academic Interests
 
-### 2. C++ Programming & Data Structures Coursework
+- Artificial Intelligence
+- Machine Learning
+- Data Analytics
+- Database Systems
+- Data Engineering
+- Software Development
 
-**Repository:** `mbarkdlwd-blip/202510537_DSA_MubarakDawoodAbdalla` (public)
+---
 
-**One-line pitch:** Seven C++ console programs from university coursework, from pointers to a multi-file, class-based library management system.
+## 🛠️ Technical Skills
 
-**Stack:** C++17, standard library (`vector`, `fstream`, `sstream`, `iomanip`).
+### Programming Languages
 
-**Highlights:** library management system with a `LibraryBook` class, overdue detection and fines; ATM with PIN lockout and transaction history; file-backed student CRUD.
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-**Evidence:** six programs compile in CI; each was run with scripted input during the audit.
+### Backend Development
 
-**Status:** Coursework. One program (07) is incomplete because its header is missing.
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat)
 
-**Portfolio suitability:** Good as a learning record showing C++ fundamentals and OOP. Feature it below the flagship, not as a headline project.
+### Databases
 
-## Not yet on GitHub
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat)
 
-| Project | From your brief | What is needed |
-|---|---|---|
-| South Darfur Emergency Rooms app | Flutter, Dart, Firebase | Push the code, keeping `google-services.json` and API keys out of the repo |
-| NUSelle website | HTML, CSS, JavaScript, Netlify | Push the site; add the Netlify URL as the repository homepage |
+### Frontend Development
 
-Once pushed, both would add mobile and front-end range to the portfolio. They would then need the same audit.
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
-## Not for the portfolio
+### Tools & Technologies
 
-`202510537_DSA_MubarakDawoodAbdall`: empty duplicate; recommended for deletion.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**Additional Skills:** Object-Oriented Programming, Database Design, API Development, AI Integration, Software Testing, and Data Management.
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Nyalatna AI Registration & Admissions Platform
+
+An AI-powered registration and admissions platform designed to improve the operations of a training and capacity-building center.
+
+#### Key Features
+
+- Applicant registration and course management.
+- Enrollment and batch capacity management.
+- Payment installments and financial tracking.
+- Financial reporting and Arabic PDF generation.
+- AI-powered registration assistance.
+- Role-based access control and audit logging.
+- Integration architecture for messaging platforms.
+
+#### Technology Stack
+
+C#, .NET, ASP.NET Core, Entity Framework Core, PostgreSQL, React, TypeScript, OpenAI integration, Docker, and GitHub Actions.
+
+**Repository:** Private — source code available upon request.
+
+---
+
+### 2. Data Structures & Algorithms — C++
+
+A university coursework project focused on C++ programming, problem-solving, and practical applications of programming concepts.
+
+**Topics Covered**
+
+- Object-Oriented Programming.
+- File handling.
+- Data management.
+- Programming exercises and problem-solving.
+
+🔗 **Repository:**  
+https://github.com/mbarkdlwd-blip/202510537_DSA_MubarakDawoodAbdalla
+
+---
+
+## 🎯 Entrepreneurship & Project Management Coaching
+
+**Entrepreneurship & Project Management Coach**
+
+I support aspiring entrepreneurs and project teams in developing business ideas, planning projects, and strengthening their entrepreneurial and management capabilities.
+
+### Areas of Focus
+
+- 💡 Entrepreneurship and business idea development.
+- 📊 Project planning and management.
+- 📝 Business model development.
+- 🎯 Goal setting and strategic planning.
+- 🚀 Startup development and entrepreneurial skills.
+- 📈 Business planning and organizational management.
+- 🤝 Capacity building and practical training.
+
+My approach emphasizes practical learning, structured planning, problem-solving, and turning ideas into actionable initiatives.
+
+---
+
+## 🌍 Leadership & Entrepreneurship
+
+### Nyaltna Capacity Building Center
+**Founder**
+
+Founder of a capacity-building center focused on entrepreneurship, professional development, and practical skills training.
+
+#### Training Areas
+
+- Entrepreneurship and Project Management.
+- Computer and Operating Systems.
+- Marketing.
+- Neuro-Linguistic Programming (NLP).
+- Clothing Design.
+
+The center also provides facilities for workshops, conferences, and professional events.
+
+### NUSelle
+**Co-founder**
+
+A modest-fashion brand specializing in abayas, hijabs, fabrics, and customized fashion products, serving customers in Rwanda and beyond.
+
+### South Darfur Emergency Response Rooms
+**Program Coordinator**
+
+Contributing to humanitarian coordination and community-led emergency response initiatives in South Darfur, Sudan.
+
+Areas of engagement include humanitarian coordination, community support, emergency response, and collaboration with local response teams.
+
+---
+
+## 🎯 Current Interests
+
+- Artificial Intelligence and Machine Learning.
+- Data Science and Data Analytics.
+- AI-powered applications.
+- Backend and Full-Stack Development.
+- Database Systems and Data Engineering.
+- Entrepreneurship and Startup Development.
+- Project Management and Capacity Building.
+- Technology for Social Impact.
+
+---
+
+## 📫 Let's Connect
+
+I'm open to meaningful collaborations, technology projects, entrepreneurship initiatives, and opportunities to learn and grow.
+
+- **Email:** mbarkdlwd@gmail.com
+- **GitHub:** https://github.com/mbarkdlwd-blip
+- **LinkedIn:** https://www.linkedin.com/in/mubarak-dawood-bakheet-74a3363b4
+- **Location:** Kigali, Rwanda
+
+---
+
+<p align="center">
+  <i>Learning continuously. Building practically. Empowering entrepreneurs. Creating impact through technology.</i>
+</p>
